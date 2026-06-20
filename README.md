@@ -47,8 +47,17 @@ A fully open-sourced compact devboard inspired by the Seed Studio Xiao RP2040 wi
 
 Here are the schematic designs,
 
-| ![](https:/github.com/Shadow220108/apex/blob/main/assets/schematics.jpg) |
-| --- |
+| ![](https://github.com/Shadow220108/apex/blob/main/assets/schematics.jpg) |
+| --- |  
+
+## Pinout  
+
+This is a general pinout 
+
+| ![](https://github.com/Shadow220108/apex/blob/main/assets/pinout.png) | 
+| --- | 
+
+( Credits to the Seed Studio for making this, since my board is inspired on the Xiao, I have used the pinout provided by them ) 
 
 ## Why was it made?  
 
@@ -74,7 +83,7 @@ available on the board.
 |PCBA|Development Board|2       |79.03           |https://jlcpcb.com/|JLCPCB     |
 | | | Total | 79.03 | 
 
-LCSC BOM for the components on board is [here](https://github.com/Shadow220108/apex/blob/main/production/bom.csv)
+LCSC BOM for the components on board is [here](https://github.com/Shadow220108/apex/blob/main/production/apex_bom.csv)
   
 
 
